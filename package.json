@@ -1,0 +1,20 @@
+{
+  "name": "d",
+  "version": "1.0.0",
+  "description": "uploading",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "file",
+    "upload"
+  ],
+  "author": "Nicholas <barkotenicholas@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^2.5.7",
+    "express": "^4.16.2",
+    "multer": "^1.3.0"
+  }
+}
